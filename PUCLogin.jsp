@@ -151,7 +151,6 @@
 <script language="javascript" type="text/javascript" src="webcontext.js"></script>
 
 </head>
-
 <body class="pentaho-page-background">
 <div id="login-wrapper">
   <div id="login-background">
